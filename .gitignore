@@ -1,5 +1,14 @@
+# Secretos y Configuración
+.env
+
+# Entornos Virtuales
 __pycache__/
 .venv/
 venv/
 env/
+
+# Archivos de Pesados de IA
 *.pt
+
+# Logs de PM2
+*.log

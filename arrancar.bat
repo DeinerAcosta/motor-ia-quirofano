@@ -1,0 +1,1 @@
+C:\Users\Hector\AppData\Local\Microsoft\WindowsApps\python.exe prueba_ocr.py
